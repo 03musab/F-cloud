@@ -1,6 +1,6 @@
 <?php
 // connect to the database
-$conn = mysqli_connect('localhost', 'root', 'musab', 'mydatabase');
+$conn = mysqli_connect('localhost', 'id20414586_root', '[GcR>b>7pD>pHfmi', 'id20414586_mydatabase');
 
 // check if the form has been submitted
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
